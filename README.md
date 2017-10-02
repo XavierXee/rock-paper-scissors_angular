@@ -1,4 +1,4 @@
-#Rock Paper Scissor
+##Rock Paper Scissor
 
 	### requires at least Nodejs v7.9.0 and npm v4.2.0
 
