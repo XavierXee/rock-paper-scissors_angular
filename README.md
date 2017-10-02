@@ -32,8 +32,7 @@
 
 		npm run start
 
-		--> client is already built so there is no need to compile it
-		--> access app at localhost:8080
+	6 - Open localhost:8080 on a web browser
 
 
 
