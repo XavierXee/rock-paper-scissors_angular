@@ -6,9 +6,15 @@
 	
 	1 - Build the client 
 
-		cd rock-paper-scissors_angular/client/
-		npm install
-		ng build
+		Go to client directory and install dependencies
+
+			cd rock-paper-scissors_angular/client/
+			npm install
+
+		Make sure you have @angular/cli installed then build
+
+			npm install -g @angular/cli
+			ng build
 
 	2 - Get at the app root directory
 
