@@ -6,7 +6,7 @@
 
 	1 - Get at the app root directory
 
-		cd app/
+		cd rock-paper-scissors_angular/
 
 	2 - Install dependencies 
 
@@ -25,7 +25,7 @@
 
 	(5) - Optionaly you can rebuild the client part using the following commands :
 
-		cd app/client/
+		cd rock-paper-scissors_angular/client/
 		ng build
 
 		then rerun step 3 and step 4
@@ -44,15 +44,15 @@
 
 		Source files : 
 
-			app/src/
+			rock-paper-scissors_angular/src/
 
 				server.ts
 
-			app/src/core
+			rock-paper-scissors_angular/src/core
 
 				game_manager.ts
 			
-			app/src/routes
+			rock-paper-scissors_angular/src/routes
 
 				router.ts
 				index.ts  // render the index page
@@ -72,7 +72,7 @@
 
 		Source files : 
 
-			app/client/src/app
+			rock-paper-scissors_angular/client/src/app
 
 				i_weapon.ts
 				i_options.ts
