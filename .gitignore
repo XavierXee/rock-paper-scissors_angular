@@ -1,5 +1,4 @@
 .tscache
 .baseDir.ts
 dist
-src/core
 node_modules
