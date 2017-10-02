@@ -1,4 +1,3 @@
-import mongoose = require("mongoose");
 import { IWeapon } from "../interfaces/i_weapon";
 
 export class GameManager {
