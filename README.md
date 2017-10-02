@@ -3,32 +3,32 @@
 	### requires at least Nodejs v7.9.0 and npm v4.2.0
 
 ## Build and Run instructions
+	
+	1 - Build the client 
 
-	1 - Get at the app root directory
+		cd rock-paper-scissors_angular/client/
+		npm install
+		ng build
+
+	2 - Get at the app root directory
 
 		cd rock-paper-scissors_angular/
 
-	2 - Install dependencies 
+	3 - Install dependencies for server application
 
 		npm install
 
-	3 - Compile and build application with grunt
+	4 - Compile and build application with grunt
 
 		npm run grunt
 
-	4 - Start app
+	5 - Start app
 
 		npm run start
 
 		--> client is already built so there is no need to compile it
 		--> access app at localhost:8080
 
-	(5) - Optionaly you can rebuild the client part using the following commands :
-
-		cd rock-paper-scissors_angular/client/
-		ng build
-
-		then rerun step 3 and step 4
 
 
 ## Stack description
